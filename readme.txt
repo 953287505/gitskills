@@ -1,4 +1,4 @@
 Creating a new branch is quick.
-//这是分支 add
+Git is a free software ...
 Creating a new branch is quick & simple.
 //分支
